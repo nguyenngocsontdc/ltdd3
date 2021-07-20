@@ -14,7 +14,7 @@
     "express": "^4.17.1",
     "mysqli": "^3.0.11",
     "react": "16.9.0",
-    "react-native": "0.61.2",
+    "react-native": "0.62.3",
     "react-native-vector-icons": "^6.6.0"
   },
   "devDependencies": {
